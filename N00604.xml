@@ -107,8 +107,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000735_0000_0FAA54EDF7ED3AF0"/>
-            <pb facs="tcp:000735_0001_0FAA54EF17AA3A40"/>
+            <pb facs="unknown:000735_0000_0FAA54EDF7ED3AF0"/>
+            <pb facs="unknown:000735_0001_0FAA54EF17AA3A40"/>
             <p>A JOURNAL OF THE House of Representatives For His MAJESTIES <hi>Province of New-York</hi> IN AMERICA</p>
             <p>Begun the 20th day of <hi>June,</hi> in the seventh year of His Majesties Reign, <hi>Anno<expan>
                      <am>
@@ -136,7 +136,7 @@
             <p>Printed and Sold by <hi>William Bradford,</hi> Printer to his Majesty, King <hi>William,</hi> at the Sign of the Bible in <hi>New-York,</hi> 1695.</p>
          </div>
          <div type="list_of_representatives">
-            <pb facs="tcp:000735_0002_0FAA54EF84782270"/>
+            <pb facs="unknown:000735_0002_0FAA54EF84782270"/>
             <p>A LIST of the several Representatives, returned (pursuant to his Majesties Writ) to serve in General Assembly, for the respective Cities and Counties of the Province of <hi>New-York, viz.</hi>
             </p>
             <list>
@@ -246,7 +246,7 @@
       </front>
       <body>
          <div type="journal_of_proceedings">
-            <pb n="1" facs="tcp:000735_0003_0FAA54F0336DB9C8"/>
+            <pb n="1" facs="unknown:000735_0003_0FAA54F0336DB9C8"/>
             <head>A Journal of the House of Representatives, &amp;c.</head>
             <div type="journal_entry">
                <head>Die Jovis Ant. Merid. June 20. 1695.</head>
@@ -268,7 +268,7 @@
                </p>
                <p>Whereupon the House went all to the Fort, and did present <hi>James Graham,</hi> 
                   <abbr>Esq</abbr> to be their Speaker, who was accordingly approved of by his Excellency. Upon which approbation Mr. Speaker did, in behalf of the whole House, assure his Excellency, that
-<pb n="4" facs="tcp:000735_0004_0FAA54F10AA5C8C8"/>
+<pb n="4" facs="unknown:000735_0004_0FAA54F10AA5C8C8"/>
 they were Persons Loyal, and well affected to his Majesty, and the present Government; and also, did address his Excellency, as was desired by the House, in their behalf, and did desire. That their Rights and Priviledges, <hi>&amp;c.</hi> should be continued to them, as usual, <hi>&amp;c.</hi> Which Address was approved of by his Excellency and Council, and ac<g ref="char:EOLhyphen"/>cordingly granted.</p>
                <p>Then his Excellency was pleased to make a short Speech to the House, the Heads of which were as followeth, <abbr>
                      <hi>viz.</hi>
@@ -335,7 +335,7 @@ they were Persons Loyal, and well affected to his Majesty, and the present Gover
             </div>
          </div>
          <div type="account_of_votes">
-            <pb n="5" facs="tcp:000735_0005_0FAA54F1EF77D330"/>
+            <pb n="5" facs="unknown:000735_0005_0FAA54F1EF77D330"/>
             <head>VOTES OF THE House of Representatives for his Majesties Province of New-York.</head>
             <div type="proceedings_of_the_day">
                <head>Die Saturni hor. 8. A. M. June 22. 1695.</head>
@@ -414,7 +414,7 @@ they were Persons Loyal, and well affected to his Majesty, and the present Gover
                <p>That his Excellency be addressed to order the Printer to print the daily Votes of this House at the <hi>P</hi>ublick Charge, and that Mr. <hi>Read</hi> and Mr. <hi>Sebran</hi> do wait upon his Excellency with the said Address.</p>
                <p>Mr. <hi>Read</hi> and Mr. <hi>Sebran</hi> return'd from his Excellency, and report<g ref="char:EOLhyphen"/>ed, That his Excellency is very willing the daily Votes of this House should be printed at the publick Charge, but hopes that the House, (before the Session ends) will allow the Printer something of further encouragement than what already established.</p>
                <p>
-                  <pb n="6" facs="tcp:000735_0006_0FAA54F26F874450"/>
+                  <pb n="6" facs="unknown:000735_0006_0FAA54F26F874450"/>
                   <hi>Ordered,</hi>
                </p>
                <p>That the Votes this House be daily printed, and that the Speaker issue out his Warrant to the King's Printer, to print the same at the publick Charge accordingly.</p>
@@ -440,7 +440,7 @@ they were Persons Loyal, and well affected to his Majesty, and the present Gover
             <p>Printed and Sold by <hi>William Bradford,</hi> Printer to his Majesty, <hi>King William,</hi> at the Bible in New-York, 1695.</p>
          </div>
          <div type="account_of_votes">
-            <pb n="7" facs="tcp:000735_0007_0FAA54F42E03D4B8"/>
+            <pb n="7" facs="unknown:000735_0007_0FAA54F42E03D4B8"/>
             <head>VOTES OF THE House of Representatives for his Majesties Province of New-York.</head>
             <div type="proceedings_of_the_day">
                <head>Die Martis Ant. Merid. June 25. 1695.</head>
@@ -553,7 +553,7 @@ they were Persons Loyal, and well affected to his Majesty, and the present Gover
             <p>Printed and Sold by <hi>William Bradford,</hi> Printer to his Majesty, King <hi>William,</hi> at the Bible in New-York, 1695</p>
          </div>
          <div type="account_of_votes">
-            <pb n="9" facs="tcp:000735_0008_0FAA54F4F5D831E8"/>
+            <pb n="9" facs="unknown:000735_0008_0FAA54F4F5D831E8"/>
             <head>VOTES OF THE House of Representatives for his Majesties Province of New-York.</head>
             <head>Die Jovis Ant. Merid. June 27. 1695.</head>
             <p>THe Report of the Committee appointed to examine what Forces have been imployed for the security of the Fronteers, since the first of <hi>May</hi> last, and what they should have for the said Service, was read, and contained as followeth, <abbr>
@@ -612,7 +612,7 @@ they were Persons Loyal, and well affected to his Majesty, and the present Gover
                               <desc>•••</desc>
                            </gap>. One Drum, One Clerk, and Thirty one Centinals have been in the Service at <hi>Albany</hi> since the 1<hi>st.</hi> of <hi>May</hi> last.</p>
                         <p>
-                           <pb n="10" facs="tcp:000735_0009_0FAA54F600DB7B80"/>
+                           <pb n="10" facs="unknown:000735_0009_0FAA54F600DB7B80"/>
 We do also find more in the said Service, <abbr>
                               <hi>viz.</hi>
                            </abbr> since <hi>May</hi> the 7<hi>th,</hi> One Centinal, <hi>May</hi> 9<hi>th,</hi> Two Centinals, <hi>May</hi> 16<hi>th,</hi> Two Centinals, <hi>May</hi> 22<hi>d,</hi> Two Centinals, <hi>May</hi> 23<hi>d,</hi> Three <hi>C</hi>entinals. In all forty one Centinals.</p>
@@ -664,7 +664,7 @@ We do also find more in the said Service, <abbr>
             </closer>
          </div>
          <div type="account_of_votes">
-            <pb n="11" facs="tcp:000735_0010_0FAA54F631F43158"/>
+            <pb n="11" facs="unknown:000735_0010_0FAA54F631F43158"/>
             <head>VOTES OF THE House of Representatives for his Majesties Province of New-York.</head>
             <head>Die veneris 8 hor. Ant. Merid. June 28. 1695.</head>
             <p>THe Report of the Committee appointed to examine how much the Sum to pay the Forces at <hi>Albany</hi> shall amount to, and the Quota's and Proportions of each respective <hi>C</hi>ity and County, <hi>&amp;c.</hi> was read, and was in these words following, <abbr>
@@ -758,7 +758,7 @@ We do also find more in the said Service, <abbr>
             </q>
             <p>Which is approved of by the whole House, and ordered that the said Sum be raised accordingly.</p>
             <p>
-               <pb n="12" facs="tcp:000735_0011_0FAA54F6F8FFD7B8"/>
+               <pb n="12" facs="unknown:000735_0011_0FAA54F6F8FFD7B8"/>
 This House having received Information that one of the Soul<g ref="char:EOLhyphen"/>diers lately sent over by his Majesty, at the Solicitation of his Excellency, for the security of this <hi>P</hi>rovince, has been sentenced to Death, for a Mutuny by him acted in his coming over to this <hi>P</hi>rovince. The House of Representatives considering the <hi>S</hi>ervice those Forces came to do in this <hi>P</hi>rovince, and being willing to encourage them in the faithful discharge of their Duty for the future, become humble Suppliants unto your Excellency, That your Excellency would favourably be pleased to grant unto the said Souldier his Majesties Pardon for his said Offence, which shall ever be gratefully acknowledged by Us, and all his Majesties good Subjects within this Province, whom we represent. And ordered, That Mr. <hi>D' Key,</hi> Mr. <hi>Abeel,</hi> Mr. <hi>Tuthil,</hi> Mr. <hi>Sebran,</hi> Mr. <hi>Stillwell,</hi> Mr. <hi>Underhill,</hi> and Mr. <hi>Jackson,</hi> do wait upon his Excellency with this Address.</p>
             <p>Mr. D' <hi>Key</hi> returned, and reported, That he waited upon his Excellency with the Address, and that his Excellency was very willing to comply with the Request of the House, and that their Address should be accordingly granted.</p>
             <p>
@@ -781,7 +781,7 @@ This House having received Information that one of the Soul<g ref="char:EOLhyphe
             <p>Printed and Sold by <hi>William Bradford,</hi> Printer to his Majesty, King <hi>William,</hi> at the <hi>B</hi>ible in New-York, 1695.</p>
          </div>
          <div type="account_of_votes">
-            <pb n="13" facs="tcp:000735_0012_0FAA54F7B4A04E28"/>
+            <pb n="13" facs="unknown:000735_0012_0FAA54F7B4A04E28"/>
             <head>VOTES OF THE House of Representatives for his Majesties Province of New-York.</head>
             <head>Die Luna 2 hor. P. M. July 1. 1695.</head>
             <p>COllonel <hi>Henry Beekman</hi> and Major <hi>William D' Meyr</hi> returned Representatives for <hi>Ulster County,</hi> and Major <hi>Matthew Howell</hi> returned a <hi>R</hi>epresentative for <hi>Suffolk County,</hi> came to the House, and having taken the Oaths, <hi>&amp;c.</hi> and subscribed the Test (as ap<g ref="char:EOLhyphen"/>peared by Certificate under the hands of Coll. <hi>Stephanus van Court<g ref="char:EOLhyphen"/>landt</hi> and Coll. <hi>Nicholas Bayard,</hi> were desired to take their places accordingly.</p>
@@ -793,7 +793,7 @@ This House having received Information that one of the Soul<g ref="char:EOLhyphe
                   <desc>〈◊〉</desc>
                </gap> shall discover the same, was a second time read, and ordered to be engrossed.</p>
             <p>
-               <pb n="14" facs="tcp:000735_0013_0FAA54F885223198"/>
+               <pb n="14" facs="unknown:000735_0013_0FAA54F885223198"/>
 The Bill for the encouraging of Sea-men was a second time read, and ordered to be engrossed.</p>
             <p>The <hi>B</hi>ill granting to his Majesty one Thousand Pounds, the one half to be allowed unto his Excellency, and the other half unto the Officers and Souldiers lately arrived, for their encouragement, was a second time read, and ordered to be engrossed.</p>
             <p>The Bill for the raising eight Hundred Pounds, for the paying and maintaining the Officers and Souldiers imployed for the secu<g ref="char:EOLhyphen"/>ring the Fronteers of this Province at <hi>Albany,</hi> from the first of <hi>May</hi> to the first of <hi>August</hi> was read a second time, and ordered to be engrossed.</p>
@@ -814,7 +814,7 @@ The Bill for the encouraging of Sea-men was a second time read, and ordered to b
             <p>Printed and Sold by <hi>William Bradford,</hi> Printer to his Majesty, King <hi>William,</hi> at the <hi>B</hi>ible in New-York, 1695.</p>
          </div>
          <div type="account_of_votes">
-            <pb n="15" facs="tcp:000735_0014_0FAA54F94B3746E0"/>
+            <pb n="15" facs="unknown:000735_0014_0FAA54F94B3746E0"/>
             <head>VOTES OF THE House of Representatives for his Majesties Province of New-York.</head>
             <div type="proceedings_of_the_day">
                <head>Die Martis 8 hor. Ant. Merid. July 2. 1695.</head>
@@ -830,7 +830,7 @@ The Bill for the encouraging of Sea-men was a second time read, and ordered to b
                <p>A Bill for the preventing the deserting of his Majesties Service, among the Forces arrived for the Security of this Province, and for giving a Reward to such as shall discover the same, was Read the third time, and approved, and order'd that it be sent up to the Go<g ref="char:EOLhyphen"/>vernour and Council for their assent.</p>
                <p>The <hi>B</hi>ill for the encouraging of Sea-men, was Read the third time, and passed, and order'd that it be sent up to the Governour and <hi>C</hi>ouncil for their assent.</p>
                <p>
-                  <pb n="16" facs="tcp:000735_0015_0FAA54FA40F894B8"/>
+                  <pb n="16" facs="unknown:000735_0015_0FAA54FA40F894B8"/>
                   <hi>Ordered,</hi> That Mr. <hi>Abeel,</hi> Capt. <hi>Schuyler,</hi> and Mr. <hi>Reade</hi> do wait upon his Excellency and Council with the <hi>B</hi>ill for preventing the deserting of his Majesties Service, <hi>&amp;c.</hi> and the <hi>B</hi>ill for encouraging of Sea-men, for their assent.</p>
                <p>The Bill for continuing the <hi>Act for encouraging the Post-Office</hi> three years longer, was read the third time, and passed, and ordered that it be sent up to the Governour and Council for their assent.</p>
                <p>The Bill for enabling the <hi>C</hi>ity and County of <hi>Albany</hi> to defray their necessary Charge, was read the third time, and passed, and ordered to be sent up to his Excellency and <hi>C</hi>ouncil for their assent accordingly.</p>
@@ -860,7 +860,7 @@ The Bill for the encouraging of Sea-men was a second time read, and ordered to b
             <p>Printed and Sold by <hi>William Bradford,</hi> Printer to his Majesty, King <hi>William,</hi> at the <hi>B</hi>ible in New-York, 1695.</p>
          </div>
          <div type="account_of_votes">
-            <pb n="17" facs="tcp:000735_0016_0FAA54FAACE8BFF8"/>
+            <pb n="17" facs="unknown:000735_0016_0FAA54FAACE8BFF8"/>
             <head>VOTES OF THE House of Representatives for his Majesties Province of New-York.</head>
             <div type="proceedings_of_the_day">
                <head>Die Mercurij 8 hor. Ant. Merid. July 3. 1695.</head>
@@ -875,7 +875,7 @@ The Bill for the encouraging of Sea-men was a second time read, and ordered to b
                <p>
                   <hi>Order'd,</hi> That Mr. <hi>Read</hi> and Mr <hi>Abeel</hi> do carry up the Bill for encouraging of Sea-men, with the amendments.</p>
                <p>The House of Representatives taking into Consideration the Amendments sent down by his Excellency and Council, with the Bill entituled, <hi>A Bill for preventing the deserting of his Majesties Service, &amp;c.</hi> and cannot agree to the first Amendment, for the changing the Title of the said Bill, because this House did frame the
-<pb n="18" facs="tcp:000735_0017_0FAA54FB7615EE98"/>
+<pb n="18" facs="unknown:000735_0017_0FAA54FB7615EE98"/>
                   <hi>B</hi>ill on purpose only for such of the Forces that arrived to be im<g ref="char:EOLhyphen"/>ployed for his Majesties <hi>S</hi>ervice in this Province, and for none other, except such as should lift themselves for the future in the said Com<g ref="char:EOLhyphen"/>panies.</p>
                <p>They likewise cannot agree to the second Amendment, because the Preamble sets forth the <hi>R</hi>eason why the Bill was fram'd, and the <hi>B</hi>ill was only made to discourage those only Forces from de<g ref="char:EOLhyphen"/>serting the said Service, and to correct and punish such of the Inha<g ref="char:EOLhyphen"/>bitants of this Province that should be in any manner of way aiding or assisting to the encouraging of them therein.</p>
                <p>This House does agree to the third Amendment, that the words (<hi>without leave from his proper Officer</hi>) be left out, and to the same words in the <hi>P</hi>aragraph mentioned, and agree to mention the Kings Reign when the Act of Parliament, mentioned in the said Bill, was made.</p>
@@ -903,7 +903,7 @@ The Bill for the encouraging of Sea-men was a second time read, and ordered to b
             <p>Printed and Sold by <hi>William Bradford,</hi> Printer to his Majesty, King <hi>William,</hi> at the <hi>B</hi>ible in New-York, 1695.</p>
          </div>
          <div type="account_of_votes">
-            <pb n="19" facs="tcp:000735_0018_0FAA54FC673BC708"/>
+            <pb n="19" facs="unknown:000735_0018_0FAA54FC673BC708"/>
             <head>VOTES OF THE House of Representatives for his Majesties Province of New-York.</head>
             <head>Die Jovis 8 hor. Ant. Merid. July 4. 1695.</head>
             <p>
@@ -918,7 +918,7 @@ The Bill for the encouraging of Sea-men was a second time read, and ordered to b
                <hi>Mr. Jamison,</hi> Clerk of the Council, brought a Message from his Excellency and Council, requiring the Speaker, with the whole House, to give their immediate attendance at the <hi>C</hi>ouncil Chamber.</p>
             <p>The Speaker immediately left the Chair, and went with the whole House accordingly to the Port.</p>
             <p>The Speaker returned to the House, after he had waited upon his Excel<g ref="char:EOLhyphen"/>lency and Council at the <hi>C</hi>ity Hall, for the <hi>P</hi>ublication of the Laws hereafter mentioned, and resum'd the Chair, and acquainted the House that his Excellency was pleased to acquaint the House that there was five <hi>B</hi>ills that he had passed; and that there was two others, one whereof was a Bill for the preventing the deserting his Majesties Service, <hi>&amp;c.</hi> which had been sent down to this House with Amendments, to which this House had not agreed, he therefore thought fit, with the Advice of his Majesties Council, to lay it aside. There was another <hi>B</hi>ill for granting to his Majesty one Thousand Pounds, <hi>&amp;c.</hi> in which he perceived there was a <hi>C</hi>omplement paid to himself, for which he was thankful; but in regard that he found it not consistent with his Honour to pass it, he did likewise, by the advice of the Council, reject it; And gave this House assurance, <hi>That as he had studied the ease and safety of the Province, so he would continue to manifest the same at all times.</hi> And that he understood there had been great dissatisfaction about the Accounts, and
-<pb n="20" facs="tcp:000735_0019_0FAA54FD2EF6FAD0"/>
+<pb n="20" facs="unknown:000735_0019_0FAA54FD2EF6FAD0"/>
 recommended that this House would appoint a Committee for the viewing of the said Accounts, which should accordingly be ready for their Exami<g ref="char:EOLhyphen"/>nation, that they might make Report thereof against the next Sessions. And thereupon was pleased to ad<hi>j</hi>ourn the Assembly unto the first of <hi>October</hi> next, and required the attendance of the House to the City Hall for the Publication of the Bills past. Whereupon the Speaker with the whole House, attended him accordingly; and there was then published the Bills following, <abbr>
                   <hi>viz.</hi>
                </abbr>
